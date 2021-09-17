@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-image: url("https://picsum.photos/1300");
+    background-size: cover;
+    height: 100vh;
+    background-repeat: no-repeat;
+}
+.input{
+    width: 150px;
+    height: 30px;
+    border-radius: 10px;
+    padding: 10px;
+    outline: none;
+    border: none;
+}
+button{
+    margin-left: 10px;
+    width: 40px;
+    height: 30px;
+    border-radius: 7px;
+    outline: none;
+    border: none;
+}
+.inputs {
+    width: 300px;
+    background: #000;
+    margin: auto;
+    margin-top: 35vh;
+    text-align: center;
+    padding: 35px;
+    height: 150px;
+    align-items: center;
+    justify-content: center;
+}
+.oyniMalumati{
+    color: aliceblue;
+    padding-top: 50px;
+    font-size: 20px;
+}
